@@ -9,3 +9,7 @@ addtwo <- function(x){
 divideby2 <- function(x){
   return(x / 2)
 }
+
+divideby4 <- function(x){
+  return(x / 4)
+}
