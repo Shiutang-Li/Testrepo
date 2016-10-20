@@ -5,3 +5,7 @@ addone <- function(x){
 addtwo <- function(x){
   return(x + 2)
 }
+
+divideby2 <- function(x){
+  return(x / 2)
+}
