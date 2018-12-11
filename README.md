@@ -5,4 +5,6 @@ Can type a few more lines here
 
 * These are updates from another branch
 
-* add one line
+* add line 1  
+
+* add line 2  
