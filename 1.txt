@@ -7,3 +7,4 @@ add conflicts solved
 
 AAA
 BBB
+CCC
