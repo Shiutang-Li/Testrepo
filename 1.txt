@@ -8,3 +8,5 @@ add conflicts solved
 AAA
 BBB
 CCC
+
+remote update master
