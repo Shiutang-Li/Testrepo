@@ -6,3 +6,5 @@ add A1
 add A2
 
 add B1
+
+conflict B
