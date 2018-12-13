@@ -9,6 +9,7 @@ AAA
 BBB
 CCC
 
+conflict A
 
 remote update master
 
