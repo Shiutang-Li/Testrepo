@@ -1,10 +1,2 @@
-conflict C
-
-add LALALA
-add woo hoo 
-add Yes
-add No
-
-------
-
-Newline
+line1
+iine2
