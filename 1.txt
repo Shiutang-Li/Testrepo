@@ -1,15 +1,3 @@
 test line 1
 test line 2
 test line 3
-
-add line 1
-add conflicts solved
-
-AAA
-BBB
-CCC
-
-conflict A
-
-remote update master
-
