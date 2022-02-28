@@ -1,8 +1,6 @@
 # Testrepo
 This is a testing repository
 
-* add line 1  
-
-* add line 2  
-
-* add line 3  
+* line 1  
+* line 2  
+* line 3  
