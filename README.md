@@ -1,6 +1,6 @@
-# Testrepo_1
-This is a testing repository to get myself familiar with Github
+# Testrepo
+This is a testing repository
 
-Can type a few more lines here
-
-Do a few more lines
+* line 1  
+* line 2  
+* line 3  
